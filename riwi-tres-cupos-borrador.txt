@@ -1,0 +1,143 @@
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+ELECCIÓN INDIVIDUAL
+Diego, Ana, Hugo
+Criterio: Elegí a los tres estudiantes con las notas actuales más bajas para darles la oportunidad de recibir apoyo y evitar que reprueben el curso
+
+PRIMERA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+PRIMERA RESPUESTA
+Para responder a la solicitud de seleccionar a los tres estudiantes que más necesitan el acompañamiento, aquí está la selección, la justificación de los elegidos y los motivos para dejar fuera al resto:
+Selección de los tres estudiantes
+
+    Camila (Nota: 2,8 | Asistencia: 100 %)
+
+        Justificación: Tiene una nota reprobatoria, pero muestra un compromiso absoluto con una asistencia del 100 %. Su principal obstáculo es la dependencia y la falta de autonomía (se bloquea al trabajar sola). El acompañamiento técnico le permitirá ganar la confianza necesaria para resolver problemas de forma independiente y aprovechar al máximo su constancia.
+
+    Gabriela (Nota: 2,6 | Asistencia: 80 %)
+
+        Justificación: Está perdiendo la materia y enfrenta una barrera logística externa (comparte computador en casa, lo que limita su práctica individual). El programa de acompañamiento le brindará un espacio guiado para compensar esa falta de tiempo de práctica fuera de clase y evitar que se quede atrás por razones ajenas a su motivación.
+
+    Ana (Nota: 2,1 | Asistencia: 95 %)
+
+        Justificación: Tiene una de las notas más bajas (2,1) y vacíos estructurales en conceptos básicos a pesar de ser muy constante (95 % de asistencia) y estudiar de manera autodidacta. Sin una intervención o tutoría que identifique y corrija esos vacíos fundamentales, el esfuerzo que invierte por su cuenta no se traducirá en mejores resultados.
+
+Razones por las que se dejaron fuera a los demás estudiantes
+
+    Diego (Nota: 1,9 | Asistencia: 60 %): Aunque su nota es la más baja y atraviesa una situación familiar compleja, su inasistencia del 40 % sugiere que la barrera principal es la disponibilidad de tiempo. Un tutor no resolverá el problema de inasistencia si antes no se flexibiliza su horario o se atiende su situación personal.
+
+    Hugo (Nota: 2,5 | Asistencia: 90 %): Presenta buena asistencia y entrega sus trabajos. El hecho de que le cueste explicar su código indica una oportunidad de mejora en la comprensión verbal o lógica, pero al estar entregando actividades, tiene una base de trabajo más firme que Ana, Camila o Gabriela.
+
+    Elena (Nota: 2,7 | Asistencia: 100 %): Está muy cerca de la nota de aprobación (3,0) y comprende las explicaciones teóricas. Sus errores al programar son de ejecución, los cuales suele corregir la práctica constante en clase con su 100 % de asistencia.
+
+    Bruno (Nota: 2,8 | Asistencia: 65 %): Está cerca de aprobar, pero su problema central es el choque de sus turnos de trabajo con las clases. Asignarle tutorías en los mismos horarios o sin ajustar su disponibilidad laboral no garantiza un impacto positivo en su rendimiento.
+
+    Felipe (Nota: 4,3 | Asistencia: 95 %): Su rendimiento académico es alto y ya tiene la materia aprobada con solvencia. Aunque su deseo de profundizar es válido, el criterio de la convocatoria se enfoca en "necesidad de acompañamiento para aprobar", por lo que sus requerimientos son de enriquecimiento, no de nivelación crítica.
+
+OBSERVACIONES
+01. Interpretó "necesitar acompañamiento" como tener fallas académicas que un tutor sí pueda resolver como dudas o falta de práctica, pero contando con el tiempo y la asistencia para aprovecharlo. Por eso dejó fuera a estudiantes como Diego o Bruno, asumiendo que sus problemas son de tiempo o trabajo y no se solucionan con tutorías
+
+02. Priorizó la asistencia y el motivo por el cual el estudiante se queda atrás, buscando que la ayuda académica realmente sirva. En cambio, dejó en segundo plano la nota más baja como único indicador, dejando por fuera a Diego que tenía un 1,9 porque sus ausencias hacen que una tutoría no le solucione el problema de fondo
+
+03. Sí, dio por cierto que la asistencia baja, significa que los estudiantes no van a aprovechar el acompañamiento, suponiendo que el programa no tiene horarios flexibles que se acomoden a los turnos de trabajo o a cuidar a un familiar
+
+04. No
+
+SEGUNDA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+Información adicional sobre el programa:
+PROGRAMA A: Preparación para el examen
+Dos sesiones de dos horas antes del examen de la próxima semana. El propósito es apoyar a estudiantes para que alcancen la nota mínima de aprobación: 3. Los ocho estudiantes pueden asistir a las dos sesiones. Hay computadores disponibles durante las sesiones. No hay préstamo de equipos ni acompañamiento después del examen.
+
+SEGUNDA RESPUESTA
+Los tres estudiantes seleccionados para el **Programa A** son **Camila**, **Elena** y **Hugo**.
+
+### Criterios de selección
+
+El Programa A está diseñado para **repaso intensivo antes del examen** y su objetivo explícito es lograr que los estudiantes alcancen la nota mínima de aprobación ($3,0$). Para aprovecharlo, el estudiante debe cumplir dos condiciones clave:
+
+1. **Factibilidad:** Estar cerca del umbral de aprobación (entre $2,5$ y $2,8$).
+2. **Asistencia:** Poder asistir a las dos sesiones de dos horas la próxima semana.
+
+---
+
+### Estudiantes seleccionados
+
+1. **Camila (Nota: 2,8 | Asistencia: 100 %)**
+* **Justificación:** Está a solo $0,2$ décimas de aprobar y tiene un compromiso total demostrable por su $100\%$ de asistencia. Su principal obstáculo es el bloqueo al trabajar de forma individual; el acompañamiento presencial en las sesiones le brindará el impulso necesario para ganar autonomía frente al examen.
+
+
+2. **Elena (Nota: 2,7 | Asistencia: 100 %)**
+* **Justificación:** Entiende la teoría pero falla en la práctica (sintaxis/ejecución), situándose a $0,3$ de la nota mínima. Su asistencia perfecta garantiza que aprovechará al máximo las 4 horas de repaso guiado para depurar sus errores de código con la ayuda presencial.
+
+
+3. **Hugo (Nota: 2,5 | Asistencia: 90 %)**
+* **Justificación:** Cumple con las entregas y mantiene una alta asistencia, pero carece de afianzamiento conceptual (no logra explicar lo que programa). Las sesiones son ideales para consolidar la lógica de sus ejercicios antes de la evaluación.
+
+
+
+---
+
+### Justificación de los estudiantes no seleccionados
+
+* **Felipe (Nota: 4,3 | Asistencia: 95 %):** Ya tiene el curso aprobado con una nota destacada. El objetivo del programa es el rescate académico ($alcanzar\ 3,0$), no la profundización de temas avanzados.
+* **Bruno (Nota: 2,8 | Asistencia: 65 %):** Aunque su nota es cercana a la meta, sus problemas de asistencia se deben a cruces laborales. Un programa presencial de dos sesiones en horarios específicos no soluciona su condicionante de tiempo de fondo.
+* **Gabriela (Nota: 2,6 | Asistencia: 80 %):** Su limitante principal es la falta de equipo en casa para practicar. Dado que el programa **no ofrece préstamo de computadores** fuera de las 4 horas de clase ni soporte posterior al examen, el acompañamiento no resuelve su problema estructural de práctica.
+* **Ana (Nota: 2,1 | Asistencia: 95 %):** Presenta lagunas graves en conceptos básicos a pesar de estudiar por su cuenta. En solo dos sesiones (4 horas en total) es muy poco probable nivelar vacíos conceptuales de raíz para llegar al $3,0$.
+* **Diego (Nota: 1,9 | Asistencia: 60 %):** Tiene la nota más baja y una alta inasistencia por motivos personales. El brevísimo formato de este taller no cubre la brecha de contenido ni el atraso acumulado que presenta.
+
+COMPARACIÓN
+Sí cambió, sacó a Ana e ingresó a Elena y Hugo, la IA ajustó su criterio a las reglas del Programa A: al ser un taller express de solo 4 horas antes del examen, asumió que no daba tiempo de nivelar a los que tenían las peores notas como Ana o Diego y prefirió rescatar a los que ya estaban más cerca del 3,0 y tenían buena asistencia Camila, Elena y Hugo, tambien cambió sus justificaciones para dejar por fuera a Gabriela porque el programa no prestaba computadores para llevar a casa, y a Bruno porque las clases fijas no le solucionan su cruce de horarios de trabajo
+
+CONCLUSIÓN
+Para que la IA hiciera una selección alineada con el propósito, necesitábamos definirle claramente el objetivo real del programa, si era para nivelar vacíos graves desde cero o un repaso exprés para los que estaban cerca de pasar, las condiciones técnicas y de tiempo, duración en horas y disponibilidad de computadores, y el criterio de prioridad que debía pesar más al elegir, ya fuera la nota más baja, la asistencia o la viabilidad de lograr el resultado.
