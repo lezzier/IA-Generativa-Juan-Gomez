@@ -1,0 +1,1 @@
+hago entrega del codigo que hicieron el otro grupo de compañeros, el cual teniamos que entender nosotros, en lo perosnal no logre entenderlo del todo porque lo hicieron usando python y no conozco nada de este lenguaje.
